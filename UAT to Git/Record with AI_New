@@ -1,0 +1,230 @@
+{
+  "testSteps" : [ {
+    "recordedAttributes" : [ ],
+    "isManualStep" : false,
+    "Step_Number" : 1,
+    "Step_Description" : "go to URL",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "",
+    "Locator_Value" : "",
+    "User_Action" : "Go to url",
+    "Data_Column" : "1",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "https://demoqa.com/",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 1,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Xpath" : "/div/div[2]/div/div[1]/div/div[2]/*[name()='svg'][1]"
+    }, {
+      "Xpath" : "/div/div/div[2]/div/div/div/div[2]/svg"
+    }, {
+      "Xpath" : "(//*[@width='1em'])[46]"
+    }, {
+      "Css" : ".avatar.mx-auto.white>svg"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 2,
+    "Step_Description" : "Click operation on the element",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "/div/div/div[2]/div/div/div/div[2]/svg",
+    "User_Action" : "Click",
+    "Data_Column" : "2",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 2,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "item-0",
+      "error" : "Locator unstable,input manually or select from list"
+    }, {
+      "class" : "btn btn-light active"
+    }, {
+      "Xpath" : "//*[@id=\"item-0\"]",
+      "error" : "Locator unstable, input manually or select from list"
+    }, {
+      "Xpath" : "/html/body/div[2]/div/div/div/div/div/div/div/div/ul/li"
+    }, {
+      "Xpath" : "(//li[@class='btn btn-light active'])[1]"
+    }, {
+      "Css" : "#item-0",
+      "error" : "Locator unstable,input manually or select from list"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 3,
+    "Step_Description" : "Click Text Box",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Id",
+    "Locator_Value" : "item-0",
+    "User_Action" : "Click",
+    "Data_Column" : "3",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "0",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 3,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "userName"
+    }, {
+      "placeholder" : "Full Name"
+    }, {
+      "class" : " mr-sm-2 form-control",
+      "error" : "Locator unstable,input manually or select from list"
+    }, {
+      "Xpath" : "//*[@id=\"userName\"]"
+    }, {
+      "Xpath" : "/html/body/div[2]/div/div/div/div[2]/div[2]/form/div/div[2]/input"
+    }, {
+      "Xpath" : "(//input[@type='text'])[1]"
+    }, {
+      "Css" : "#userName"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 4,
+    "Step_Description" : "Click Full Name",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"userName\"]",
+    "User_Action" : "Click",
+    "Data_Column" : "4",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 4,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "userName"
+    }, {
+      "placeholder" : "Full Name"
+    }, {
+      "class" : " mr-sm-2 form-control",
+      "error" : "Locator unstable,input manually or select from list"
+    }, {
+      "Xpath" : "//*[@id=\"userName\"]"
+    }, {
+      "Xpath" : "/html/body/div[2]/div/div/div/div[2]/div[2]/form/div/div[2]/input"
+    }, {
+      "Xpath" : "(//input[@type='text'])[1]"
+    }, {
+      "Css" : "#userName"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 5,
+    "Step_Description" : "Set Full Name",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"userName\"]",
+    "User_Action" : "Set",
+    "Data_Column" : "5",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "Ram",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 5,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "userEmail"
+    }, {
+      "placeholder" : "name@example.com"
+    }, {
+      "class" : "mr-sm-2 form-control",
+      "error" : "Locator unstable,input manually or select from list"
+    }, {
+      "Xpath" : "//*[@id=\"userEmail\"]"
+    }, {
+      "Xpath" : "/html/body/div[2]/div/div/div/div[2]/div[2]/form/div[2]/div[2]/input"
+    }, {
+      "Xpath" : "(//input[@type='email'])[1]"
+    }, {
+      "Css" : "#userEmail"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 6,
+    "Step_Description" : "Click nameexamplecom",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"userEmail\"]",
+    "User_Action" : "Click",
+    "Data_Column" : "6",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 6,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "userEmail"
+    }, {
+      "placeholder" : "name@example.com"
+    }, {
+      "class" : "mr-sm-2 form-control",
+      "error" : "Locator unstable,input manually or select from list"
+    }, {
+      "Xpath" : "//*[@id=\"userEmail\"]"
+    }, {
+      "Xpath" : "/html/body/div[2]/div/div/div/div[2]/div[2]/form/div[2]/div[2]/input"
+    }, {
+      "Xpath" : "(//input[@type='email'])[1]"
+    }, {
+      "Css" : "#userEmail"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 7,
+    "Step_Description" : "Set nameexamplecom",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"userEmail\"]",
+    "User_Action" : "Set",
+    "Data_Column" : "7",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "Ram@gmail.com",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 7,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ],
+  "iterateData" : [ ],
+  "recordedAttributes" : [ ],
+  "isManualStep" : false
+}
