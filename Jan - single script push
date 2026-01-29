@@ -1,0 +1,173 @@
+{
+  "testSteps" : [ {
+    "recordedAttributes" : [ ],
+    "isManualStep" : false,
+    "Step_Number" : 1,
+    "Step_Description" : "go to URL",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "",
+    "Locator_Value" : "",
+    "User_Action" : "Go to url",
+    "Data_Column" : "1",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "https://www.amazon.com/",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 1,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "twotabsearchtextbox"
+    }, {
+      "Name" : "field-keywords"
+    }, {
+      "aria-label" : "Search Amazon"
+    }, {
+      "placeholder" : "Search Amazon"
+    }, {
+      "class" : "nav-input nav-progressive-attribute"
+    }, {
+      "Xpath" : "//*[@id=\"twotabsearchtextbox\"]"
+    }, {
+      "Xpath" : "/html/body/div/header/div/div/div[2]/div/form/div[2]/div/input"
+    }, {
+      "Xpath" : "(//input[@spellcheck='false'])[1]"
+    }, {
+      "Css" : "#twotabsearchtextbox"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 2,
+    "Step_Description" : "Click Search Amazon",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"twotabsearchtextbox\"]",
+    "User_Action" : "Click",
+    "Data_Column" : "2",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 2,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "twotabsearchtextbox"
+    }, {
+      "Name" : "field-keywords"
+    }, {
+      "aria-label" : "Search Amazon"
+    }, {
+      "placeholder" : "Search Amazon"
+    }, {
+      "class" : "nav-input nav-progressive-attribute"
+    }, {
+      "Xpath" : "//*[@id=\"twotabsearchtextbox\"]"
+    }, {
+      "Xpath" : "/html/body/div/header/div/div/div[2]/div/form/div[2]/div/input"
+    }, {
+      "Xpath" : "(//input[@spellcheck='false'])[1]"
+    }, {
+      "Css" : "#twotabsearchtextbox"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 3,
+    "Step_Description" : "Set Search Amazon",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"twotabsearchtextbox\"]",
+    "User_Action" : "Set",
+    "Data_Column" : "3",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "iphone",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 3,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "twotabsearchtextbox"
+    }, {
+      "Name" : "field-keywords"
+    }, {
+      "aria-label" : "Search Amazon"
+    }, {
+      "placeholder" : "Search Amazon"
+    }, {
+      "class" : "nav-input nav-progressive-attribute"
+    }, {
+      "Xpath" : "//*[@id=\"twotabsearchtextbox\"]"
+    }, {
+      "Xpath" : "/html/body/div/header/div/div/div[2]/div/form/div[2]/div/input"
+    }, {
+      "Xpath" : "(//input[@spellcheck='false'])[1]"
+    }, {
+      "Css" : "#twotabsearchtextbox"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 4,
+    "Step_Description" : "Click Search Amazon",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"twotabsearchtextbox\"]",
+    "User_Action" : "Click",
+    "Data_Column" : "4",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "iphone",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 4,
+    "Data_View_Type" : "text"
+  }, {
+    "recordedAttributes" : [ {
+      "Id" : "nav-search-submit-button"
+    }, {
+      "class" : "nav-input nav-progressive-attribute"
+    }, {
+      "Xpath" : "//*[@id=\"nav-search-submit-button\"]"
+    }, {
+      "Xpath" : "/html/body/div/header/div/div/div[2]/div/form/div[3]/div/span/input"
+    }, {
+      "Xpath" : "(//input[@value='Go'])[1]"
+    }, {
+      "Css" : "#nav-search-submit-button"
+    } ],
+    "isManualStep" : false,
+    "Step_Number" : 5,
+    "Step_Description" : "Click operation on the element",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Xpath",
+    "Locator_Value" : "//*[@id=\"nav-search-submit-button\"]",
+    "User_Action" : "Click",
+    "Data_Column" : "5",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "Go",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Parent_Step_Number" : 5,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ],
+  "iterateData" : [ ],
+  "recordedAttributes" : [ ],
+  "isManualStep" : false
+}
